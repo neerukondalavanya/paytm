@@ -1,0 +1,9 @@
+paytm\data\MemberRepository.class
+paytm\service\MemberRegistration.class
+paytm\controller\MemberController.class
+paytm\rest\JaxRsActivator.class
+paytm\rest\MemberResourceRESTService.class
+paytm\data\MemberListProducer.class
+paytm\model\Member.class
+paytm\util\Resources.class
+paytm\model\Member_.class
